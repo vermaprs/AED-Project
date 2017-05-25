@@ -10,7 +10,7 @@ import com.db4o.ta.TransparentPersistenceSupport;
 
 /**
  *
- * @author rrheg
+ * @author
  */
 public class DB4OUtil {
 

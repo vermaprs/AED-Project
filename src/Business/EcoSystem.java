@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Administrator
+ * @author
  */
 public class EcoSystem extends Organization {
 
